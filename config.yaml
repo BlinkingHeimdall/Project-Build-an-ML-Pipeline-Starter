@@ -35,4 +35,4 @@ modeling:
     criterion: squared_error
     max_features: 0.5
     # DO not change the following
-    oob_score: true
+    oob_score: true 
