@@ -19,7 +19,7 @@ https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter
   https://github.com/BlinkingHeimdall/Project-Build-an-ML-Pipeline-Starter  
 
 - **W&B project (public):**  
-  https://https://wandb.ai/jmadams41-western-governors-university/nyc_airbnb?nw=nwuserjmadams41
+  https://wandb.ai/jmadams41-western-governors-university/nyc_airbnb?nw=nwuserjmadams41
 
 ---
 
