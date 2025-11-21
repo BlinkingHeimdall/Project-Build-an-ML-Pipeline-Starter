@@ -21,7 +21,7 @@ from sklearn.preprocessing import OrdinalEncoder, FunctionTransformer, OneHotEnc
 
 import wandb
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_absolute_error
+from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.pipeline import Pipeline, make_pipeline
 
 
